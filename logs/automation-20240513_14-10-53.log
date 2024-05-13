@@ -1,0 +1,39 @@
+14:10:55.329 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Running in local platform...
+14:10:55.869 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****> Starting TC 001 AccountRegistrationTest <****
+14:10:55.960 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+14:10:56.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+14:10:56.327 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+14:10:56.820 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+14:10:56.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+14:10:57.312 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed...
+14:10:57.315 [main] INFO  testCases.TC_001_AccountRegistrationTest - <**** Finished TC 001 AccountRegistrationTest ****>
+14:10:58.148 [main] INFO  testCases.TC_002_LoginTest - **** Running in local platform...
+14:10:58.624 [main] INFO  testCases.TC_002_LoginTest - ****> Starting TC_002_LoginTest <****
+14:10:58.688 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link on the home page
+14:10:59.014 [main] INFO  testCases.TC_002_LoginTest - Clicked on login under my account
+14:10:59.016 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password
+14:10:59.211 [main] INFO  testCases.TC_002_LoginTest - Clicked login button
+14:10:59.598 [main] INFO  testCases.TC_002_LoginTest - Login test passed
+14:10:59.598 [main] INFO  testCases.TC_002_LoginTest - <**** Finished TC_002_LoginTest ****>
+14:11:00.449 [main] INFO  testCases.TC_004_SearchProductTest - **** Running in local platform...
+14:11:00.867 [main] INFO  testCases.TC_004_SearchProductTest - ****> Starting TC_004_SearchProductTest <****
+14:11:01.736 [main] INFO  testCases.TC_004_SearchProductTest - The searched product: mac
+14:11:01.800 [main] INFO  testCases.TC_004_SearchProductTest - The product MacBook has been found
+14:11:01.800 [main] INFO  testCases.TC_004_SearchProductTest - <**** Finished TC_004_SearchProductTest ****>
+14:11:02.608 [main] INFO  testCases.TC_005_AddToCartPageTest - **** Running in local platform...
+14:11:03.054 [main] INFO  testCases.TC_005_AddToCartPageTest - ****> Starting TC_005_AddToCartPageTest <****
+14:11:03.943 [main] INFO  testCases.TC_005_AddToCartPageTest - The searched product: iPhone
+14:11:04.337 [main] INFO  testCases.TC_005_AddToCartPageTest - The product iPhone had been selected
+14:11:04.485 [main] INFO  testCases.TC_005_AddToCartPageTest - quantity 2 of the iPhone product has been selected
+14:11:04.586 [main] INFO  testCases.TC_005_AddToCartPageTest - The product iPhone has been selected
+14:11:04.586 [main] INFO  testCases.TC_005_AddToCartPageTest - <**** Finished TC_004_SearchProductTest ****>
+14:11:05.406 [main] INFO  testCases.TC_006_EndToEndTest - **** Running in local platform...
+14:11:05.864 [main] INFO  testCases.TC_006_EndToEndTest - ****> Starting TC_006_EndToEndTest <****
+14:11:17.137 [main] INFO  testCases.TC_006_EndToEndTest - Has been successfully registered
+14:11:27.763 [main] INFO  testCases.TC_006_EndToEndTest - Has been loged correctly
+14:11:31.134 [main] INFO  testCases.TC_006_EndToEndTest - The product has been found
+14:11:32.936 [main] INFO  testCases.TC_006_EndToEndTest - Total price in shopping cart: $123.20
+14:11:38.740 [main] INFO  testCases.TC_006_EndToEndTest - You have added new address
+14:11:45.171 [main] INFO  testCases.TC_006_EndToEndTest - You have selected Shipping and Payment method.
+14:11:45.249 [main] INFO  testCases.TC_006_EndToEndTest - Total price in your order: $106.00
+14:11:52.329 [main] INFO  testCases.TC_006_EndToEndTest - Your order has been confirmed!

@@ -1,0 +1,55 @@
+14:21:12.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - **** Running in local platform...
+14:21:13.029 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****> Starting TC 001 AccountRegistrationTest <****
+14:21:13.118 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on my account link
+14:21:13.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+14:21:13.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer information
+14:21:14.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue
+14:21:14.106 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message...
+14:21:14.584 [main] INFO  testCases.TC_001_AccountRegistrationTest - Test passed...
+14:21:14.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - <**** Finished TC 001 AccountRegistrationTest ****>
+14:21:15.471 [main] INFO  testCases.TC_002_LoginTest - **** Running in local platform...
+14:21:15.934 [main] INFO  testCases.TC_002_LoginTest - ****> Starting TC_002_LoginTest <****
+14:21:16.000 [main] INFO  testCases.TC_002_LoginTest - Clicked on my account link on the home page
+14:21:16.368 [main] INFO  testCases.TC_002_LoginTest - Clicked on login under my account
+14:21:16.370 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password
+14:21:16.587 [main] INFO  testCases.TC_002_LoginTest - Clicked login button
+14:21:16.925 [main] INFO  testCases.TC_002_LoginTest - Login test passed
+14:21:16.925 [main] INFO  testCases.TC_002_LoginTest - <**** Finished TC_002_LoginTest ****>
+14:21:17.725 [main] INFO  testCases.TC_003_LoginDDT - **** Running in local platform...
+14:21:19.090 [main] INFO  testCases.TC_003_LoginDDT - ****> Starting TC_003_LoginDDT <****
+14:21:19.466 [main] INFO  testCases.TC_003_LoginDDT - Entering valid email and password
+14:21:19.701 [main] INFO  testCases.TC_003_LoginDDT - Clicked login button
+14:21:22.074 [main] INFO  testCases.TC_003_LoginDDT - Login Valid test passed
+14:21:22.386 [main] INFO  testCases.TC_003_LoginDDT - <**** Finished TC_003_LoginDDT ****>
+14:21:22.388 [main] INFO  testCases.TC_003_LoginDDT - ****> Starting TC_003_LoginDDT <****
+14:21:22.682 [main] INFO  testCases.TC_003_LoginDDT - Entering valid email and password
+14:21:22.872 [main] INFO  testCases.TC_003_LoginDDT - Clicked login button
+14:21:34.956 [main] INFO  testCases.TC_003_LoginDDT - Login invalid test passed
+14:21:34.956 [main] INFO  testCases.TC_003_LoginDDT - <**** Finished TC_003_LoginDDT ****>
+14:21:34.957 [main] INFO  testCases.TC_003_LoginDDT - ****> Starting TC_003_LoginDDT <****
+14:21:35.265 [main] INFO  testCases.TC_003_LoginDDT - Entering valid email and password
+14:21:35.447 [main] INFO  testCases.TC_003_LoginDDT - Clicked login button
+14:21:47.520 [main] INFO  testCases.TC_003_LoginDDT - Login invalid test passed
+14:21:47.520 [main] INFO  testCases.TC_003_LoginDDT - <**** Finished TC_003_LoginDDT ****>
+14:21:47.521 [main] INFO  testCases.TC_003_LoginDDT - ****> Starting TC_003_LoginDDT <****
+14:21:47.898 [main] INFO  testCases.TC_003_LoginDDT - Entering valid email and password
+14:21:48.084 [main] INFO  testCases.TC_003_LoginDDT - Clicked login button
+14:22:00.117 [main] INFO  testCases.TC_003_LoginDDT - Login invalid test passed
+14:22:00.117 [main] INFO  testCases.TC_003_LoginDDT - <**** Finished TC_003_LoginDDT ****>
+14:22:00.118 [main] INFO  testCases.TC_003_LoginDDT - ****> Starting TC_003_LoginDDT <****
+14:22:00.412 [main] INFO  testCases.TC_003_LoginDDT - Entering valid email and password
+14:22:00.604 [main] INFO  testCases.TC_003_LoginDDT - Clicked login button
+14:22:12.673 [main] ERROR testCases.TC_003_LoginDDT - Login Valid test failed
+14:22:12.679 [main] INFO  testCases.TC_003_LoginDDT - <**** Finished TC_003_LoginDDT ****>
+14:22:14.199 [main] INFO  testCases.TC_004_SearchProductTest - **** Running in local platform...
+14:22:14.662 [main] INFO  testCases.TC_004_SearchProductTest - ****> Starting TC_004_SearchProductTest <****
+14:22:15.532 [main] INFO  testCases.TC_004_SearchProductTest - The searched product: mac
+14:22:15.590 [main] INFO  testCases.TC_004_SearchProductTest - The product MacBook has been found
+14:22:15.590 [main] INFO  testCases.TC_004_SearchProductTest - <**** Finished TC_004_SearchProductTest ****>
+14:22:16.405 [main] INFO  testCases.TC_005_AddToCartPageTest - **** Running in local platform...
+14:22:16.822 [main] INFO  testCases.TC_005_AddToCartPageTest - ****> Starting TC_005_AddToCartPageTest <****
+14:22:17.694 [main] INFO  testCases.TC_005_AddToCartPageTest - The searched product: iPhone
+14:22:18.087 [main] INFO  testCases.TC_005_AddToCartPageTest - The product iPhone had been selected
+14:22:18.230 [main] INFO  testCases.TC_005_AddToCartPageTest - quantity 2 of the iPhone product has been selected
+14:22:18.321 [main] INFO  testCases.TC_005_AddToCartPageTest - The product iPhone has been selected
+14:22:18.321 [main] INFO  testCases.TC_005_AddToCartPageTest - <**** Finished TC_004_SearchProductTest ****>

@@ -1,0 +1,10 @@
+14:08:42.523 [main] INFO  testCases.TC_006_EndToEndTest - **** Running in local platform...
+14:08:43.051 [main] INFO  testCases.TC_006_EndToEndTest - ****> Starting TC_006_EndToEndTest <****
+14:08:54.431 [main] INFO  testCases.TC_006_EndToEndTest - Has been successfully registered
+14:09:05.080 [main] INFO  testCases.TC_006_EndToEndTest - Has been loged correctly
+14:09:08.538 [main] INFO  testCases.TC_006_EndToEndTest - The product has been found
+14:09:10.269 [main] INFO  testCases.TC_006_EndToEndTest - Total price in shopping cart: $123.20
+14:09:16.190 [main] INFO  testCases.TC_006_EndToEndTest - You have added new address
+14:09:22.630 [main] INFO  testCases.TC_006_EndToEndTest - You have selected Shipping and Payment method.
+14:09:22.730 [main] INFO  testCases.TC_006_EndToEndTest - Total price in your order: $106.00
+14:09:29.814 [main] INFO  testCases.TC_006_EndToEndTest - Your order has been confirmed!

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="OCUtil.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="TestNG(failed)" verbose="0">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="sanity"/>
+        <include name="regression"/>
+        <include name="master"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC_003_LoginDDT">
+        <methods>
+          <include name="tearDown"/>
+          <include name="verifyLoginDDT" invocation-numbers="4"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- testCases.TC_003_LoginDDT -->
+    </classes>
+  </test> <!-- TestNG(failed) -->
+</suite> <!-- Failed suite [Suite] -->

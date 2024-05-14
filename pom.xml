@@ -20,7 +20,7 @@
 					<version>3.2.2</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>final.xml</suiteXmlFile>
+							<suiteXmlFile>masterSuite.xml</suiteXmlFile>
 							<!--<suiteXmlFile>master.xml</suiteXmlFile>-->
 						</suiteXmlFiles>
 					</configuration>
